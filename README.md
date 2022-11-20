@@ -18,10 +18,7 @@ N/A
 ## Usage
 The landing page is deployed on Github Pages so you can access it by clicking [here](https://rafdimartino.github.io/module-1-challenge/)
 
-```md
-![alt text](assets/images/application-screenshot.png)
-```
-
+![**screenshot of the application**](assets/images/application-screenshot.png)
 
 ## Credits
 N/A
